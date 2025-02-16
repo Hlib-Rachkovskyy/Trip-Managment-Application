@@ -1,0 +1,6 @@
+@PersonTripManagment_HostAddress = http://localhost:5095
+
+GET {{PersonTripManagment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
