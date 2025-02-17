@@ -13,6 +13,7 @@
 
     <ItemGroup>
       <Compile Remove="DatabaseContext\**" />
+      <Compile Remove="Model\PersonTrip.cs" />
     </ItemGroup>
 
     <ItemGroup>
